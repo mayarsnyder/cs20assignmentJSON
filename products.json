@@ -1,0 +1,86 @@
+[
+        {
+                "name"         : "Party Duck",
+                "description"  : "It is Party Time with Party Duck!",
+                "size"	       : "Small",
+                "price"	       : "$5.00",
+                "category"     : ["Event", "Holiday", "Duck"]
+        },
+        {
+                "name"         : "Halloween Duck ",
+                "description"  : "BOO! Get Spooky with Halloween Duck.",
+                "size"	       : "Small",
+                "price"	       : "$5.00",
+                "category"     : ["Event", "Holiday", "Duck"]
+        },
+        {
+                "name"         : "4th of July Duck",
+                "description"  : "It is a Party in the USA",
+                "size"	       : "Small",
+                "price"	       : "$5.00",
+                "category"     : ["Event", "Holiday", "Duck"]
+        },
+        {
+                "name"         : "Dr. Duck",
+                "description"  : "This Duck Works Long Hours Saving Lives.",
+                "size"	       : "Small",
+                "price"	       : "$5.00",
+                "category"     : ["Occupation", "Duck"]
+        },
+        {
+                "name"         : "Judge Duck",
+                "description"  : "Order in the Court.",
+                "size"	       : "Small",
+                "price"	       : "$5.00",
+                "category"     : ["Occupation", "Duck"]
+        },
+        {
+                "name"         : "Teacher Duck",
+                "description"  : "This Duck Should Definitely Be Paid More",
+                "size"	       : "Small",
+                "price"	       : "$5.00",
+                "category"     : ["Occupation", "Duck"]
+        },
+        {
+                "name"         : "Scientist Duck",
+                "description"  : "This Duck Asks A Lot of Questions",
+                "size"	       : "Small",
+                "price"	       : "$5.00",
+                "category"     : ["Occupation", "Duck"]
+        },
+        {
+                "name"         : "Baby Girl Duck",
+                "description"  : "It is a Girl!",
+                "size"	       : "Mini",
+                "price"	       : "$2.00",
+                "category"     : ["Event", "Duck"]
+        },
+        {
+                "name"         : "Baby Boy Duck",
+                "description"  : "It is a Boy!",
+                "size"	       : "Mini",
+                "price"	       : "$2.00",
+                "category"     : ["Event", "Duck"]
+        },
+        {
+                "name"         : "Classic Duck",
+                "description"  : "Rubber Duckie, You are the One.",
+                "size"	       : "Small",
+                "price"	       : "$5.00",
+                "category"     : ["Yellow", "Duck"]
+        },
+        {
+                "name"         : "Sparkly Pink Duck",
+                "description"  : "Hi, Barbie!",
+                "size"	       : "Small",
+                "price"	       : "$5.00",
+                "category"     : ["Pink", "Duck"]
+        },
+        {
+                "name"         : "Purple Duck",
+                "description"  : "Hi, Barbie!",
+                "size"	       : "Small",
+                "price"	       : "$5.00",
+                "category"     : ["Purple", "Duck"]
+        }
+]
